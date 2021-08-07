@@ -4,11 +4,13 @@ API RESTful made with Express with GET method to receive an array of products or
 ### Steps to run:
 
 Install the packages:
-'''
+```
 npm install
-'''
+
+```
 
 Command to run:
-'''
+```
 npm run start
-'''
+
+```
